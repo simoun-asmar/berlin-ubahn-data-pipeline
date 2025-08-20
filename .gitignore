@@ -1,0 +1,5 @@
+# GCP service account keys
+bq_connector_key.json
+*service-account*.json
+*credentials*.json
+*.key.json
