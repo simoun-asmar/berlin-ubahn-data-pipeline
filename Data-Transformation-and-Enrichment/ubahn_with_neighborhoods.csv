@@ -1,0 +1,231 @@
+station,line,latitude,longitude,postcode,stadtteil,neighborhood
+Adenauerplatz,U7,52.499722222,13.307222222,10707,Charlottenburg,Charlottenburg-Wilmersdorf
+Afrikanische Straße,U6,52.560027777,13.334633333,13349,Wedding,Mitte
+Alexanderplatz,U5,52.521388888,13.411944444,10178,Mitte,Mitte
+Alexanderplatz,U2,52.521388888,13.411944444,10178,Mitte,Mitte
+Alexanderplatz,U8,52.521388888,13.411944444,10178,Mitte,Mitte
+Alexanderplatz,Berliner Stadtbahn,52.521388888,13.411944444,10178,Mitte,Mitte
+Alt-Mariendorf,U6,52.4391,13.3877,12107,Mariendorf,Tempelhof-Schöneberg
+Alt-Tegel,U6,52.58944,13.28389,13507,Tegel,Reinickendorf
+Alt-Tempelhof,U6,52.465952777,13.385897222,12099,Tempelhof,Tempelhof-Schöneberg
+Alt-Tempelhof,,52.465952777,13.385897222,12099,Tempelhof,Tempelhof-Schöneberg
+Altstadt Spandau,U7,52.538888888,13.206388888,13597,Spandau,Spandau
+Amrumer Straße,U9,52.5425,13.350277777,13353,Wedding,Mitte
+Amrumer Straße,,52.5425,13.350277777,13353,Wedding,Mitte
+Amrumer Straße,U6,52.5425,13.350277777,13353,Wedding,Mitte
+Augsburger Straße,U3,52.500555555,13.336388888,10789,Charlottenburg,Charlottenburg-Wilmersdorf
+Augsburger Straße,U9,52.500555555,13.336388888,10789,Charlottenburg,Charlottenburg-Wilmersdorf
+Augsburger Straße,U1,52.500555555,13.336388888,10789,Charlottenburg,Charlottenburg-Wilmersdorf
+Augsburger Straße,U2,52.500555555,13.336388888,10789,Charlottenburg,Charlottenburg-Wilmersdorf
+Bayerischer Platz,U4,52.488333333,13.340277777,10779,Schöneberg,Tempelhof-Schöneberg
+Bayerischer Platz,U7,52.488333333,13.340277777,10779,Schöneberg,Tempelhof-Schöneberg
+Bayerischer Platz,U9,52.488333333,13.340277777,10779,Schöneberg,Tempelhof-Schöneberg
+Berliner Straße,U7,52.487222222,13.330833333,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Berliner Straße,U9,52.487222222,13.330833333,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bernauer Straße,U8,52.5375,13.396666666,10115,Mitte,Mitte
+Beusselstraße,U9,52.534444,13.329444,,Moabit,Mitte
+Biesdorf-Süd,U5,52.4997,13.5465,12683,Biesdorf,Marzahn-Hellersdorf
+Birkenstraße,U9,52.532222222,13.341388888,10551,Moabit,Mitte
+Birkenstraße,,52.532222222,13.341388888,10551,Moabit,Mitte
+Bismarckstraße,U2,52.511388888,13.305,10627,Charlottenburg,Charlottenburg-Wilmersdorf
+Bismarckstraße,U7,52.511388888,13.305,10627,Charlottenburg,Charlottenburg-Wilmersdorf
+Blaschkoallee,U7,52.451944444,13.449444444,12359,Britz,Neukölln
+Blissestraße,U7,52.486666666,13.321944444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Boddinstraße,U8,52.48,13.425277777,12049,Neukölln,Neukölln
+Boddinstraße,U7,52.48,13.425277777,12049,Neukölln,Neukölln
+Borsigwerke,U6,52.5819,13.2907,13507,Tegel,Reinickendorf
+Brandenburger Tor,U55,52.516388888,13.380833333,10117,Mitte,Mitte
+Brandenburger Tor,,52.516388888,13.380833333,10117,Mitte,Mitte
+Breitenbachplatz,U3,52.466388888,13.308055555,14195,Dahlem,Steglitz-Zehlendorf
+Britz-Süd,U7,52.437777777,13.448055555,12359,Britz,Neukölln
+Bundesplatz,U7,52.478080555,13.328519444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bundesplatz,U9,52.478080555,13.328519444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bundesplatz,U4,52.478080555,13.328519444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bundesplatz,U3,52.478080555,13.328519444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bundesplatz,Berliner Ringbahn,52.478080555,13.328519444,10715,Wilmersdorf,Charlottenburg-Wilmersdorf
+Bundestag,U55,52.520013888,13.373005555,10557,Tiergarten,Mitte
+Bülowstraße,U2,52.497552777,13.363419444,10783,Schöneberg,Tempelhof-Schöneberg
+Bülowstraße,U1,52.497552777,13.363419444,10783,Schöneberg,Tempelhof-Schöneberg
+Bülowstraße,U3,52.497552777,13.363419444,10783,Schöneberg,Tempelhof-Schöneberg
+Bülowstraße,U4,52.497552777,13.363419444,10783,Schöneberg,Tempelhof-Schöneberg
+Charlottenburg,U7,52.50505,13.30452,,Charlottenburg,Charlottenburg-Wilmersdorf
+Cottbusser Platz,U5,52.5339,13.5964,12619,Hellersdorf,Marzahn-Hellersdorf
+Cottbusser Platz,,52.5339,13.5964,12619,Hellersdorf,Marzahn-Hellersdorf
+Dahlem-Dorf,U3,52.456944444,13.289444444,14195,Dahlem,Steglitz-Zehlendorf
+Deutsche Oper,U2,52.511944444,13.310555555,10625,Charlottenburg,Charlottenburg-Wilmersdorf
+Eberswalder Straße,U2,52.541666666,13.412222222,10437,Prenzlauer Berg,Pankow
+Eberswalder Straße,,52.541666666,13.412222222,10437,Prenzlauer Berg,Pankow
+Eisenacher Straße,U7,52.489444444,13.350277777,10823,Schöneberg,Tempelhof-Schöneberg
+Elsterwerdaer Platz,,52.505,13.56056,12683,Biesdorf,Marzahn-Hellersdorf
+Fehrbelliner Platz (U3),U3,52.4897,13.3153,,Wilmersdorf,Charlottenburg-Wilmersdorf
+Fehrbelliner Platz (U3),Berliner Ringbahn,52.4897,13.3153,,Wilmersdorf,Charlottenburg-Wilmersdorf
+Fehrbelliner Platz (U7),U7,52.4897,13.3153,,Wilmersdorf,Charlottenburg-Wilmersdorf
+Frankfurter Allee,U5,52.514166666,13.474722222,10247,Friedrichshain,Friedrichshain-Kreuzberg
+Frankfurter Allee,,52.514166666,13.474722222,10247,Friedrichshain,Friedrichshain-Kreuzberg
+Frankfurter Tor,U5,52.515833333,13.454166666,10243,Friedrichshain,Friedrichshain-Kreuzberg
+Franz-Neumann-Platz (Am Schäfersee),U8,52.564722222,13.363888888,13409,Reinickendorf,Reinickendorf
+Franz-Neumann-Platz (Am Schäfersee),U9,52.564722222,13.363888888,13409,Reinickendorf,Reinickendorf
+Französische Straße,U6,52.514722222,13.389166666,10117,Mitte,Mitte
+Französische Straße,U2,52.514722222,13.389166666,10117,Mitte,Mitte
+Freie Universität (Thielplatz),U3,52.451111111,13.282222222,14195,Dahlem,Steglitz-Zehlendorf
+Friedrich-Wilhelm-Platz,U9,52.47194,13.32861,12161,Friedenau,Tempelhof-Schöneberg
+Friedrichsfelde,U5,52.506111111,13.512777777,10315,Friedrichsfelde,Lichtenberg
+Friedrichstraße,U55,52.52,13.387,,Mitte,Mitte
+Friedrichstraße,U6,52.52,13.387,,Mitte,Mitte
+Friedrichstraße,,52.52,13.387,,Mitte,Mitte
+Gesundbrunnen,U6,52.548611111,13.389444444,13357,Gesundbrunnen,Mitte
+Gesundbrunnen,U8,52.548611111,13.389444444,13357,Gesundbrunnen,Mitte
+Gesundbrunnen,U2,52.548611111,13.389444444,13357,Gesundbrunnen,Mitte
+Gesundbrunnen,,52.548611111,13.389444444,13357,Gesundbrunnen,Mitte
+Gleisdreieck,U1,52.498333333,13.375277777,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Gleisdreieck,U2,52.498333333,13.375277777,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Gleisdreieck,U7,52.498333333,13.375277777,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Gneisenaustraße,U7,52.491388888,13.395555555,10961,Kreuzberg,Friedrichshain-Kreuzberg
+Gneisenaustraße,U6,52.491388888,13.395555555,10961,Kreuzberg,Friedrichshain-Kreuzberg
+Grenzallee,,52.463333333,13.443888888,12359,Britz,Neukölln
+Görlitzer Bahnhof,U1,52.4992,13.428,10997,Kreuzberg,Friedrichshain-Kreuzberg
+Görlitzer Bahnhof,U8,52.4992,13.428,10997,Kreuzberg,Friedrichshain-Kreuzberg
+Güntzelstraße,U3,52.49194,13.33083,10717,Wilmersdorf,Charlottenburg-Wilmersdorf
+Güntzelstraße,U9,52.49194,13.33083,10717,Wilmersdorf,Charlottenburg-Wilmersdorf
+Hackescher Markt,Berliner Stadtbahn,52.52333,13.40278,,Mitte,Mitte
+Halemweg,U7,52.536666666,13.286388888,13627,Charlottenburg-Nord,Charlottenburg-Wilmersdorf
+Hallesches Tor,U6,52.497777777,13.391111111,10969,Kreuzberg,Friedrichshain-Kreuzberg
+Hallesches Tor,U7,52.497777777,13.391111111,10969,Kreuzberg,Friedrichshain-Kreuzberg
+Hallesches Tor,U1,52.497777777,13.391111111,10969,Kreuzberg,Friedrichshain-Kreuzberg
+Hansaplatz,U9,52.517777777,13.342222222,10557,Tiergarten,Mitte
+Haselhorst,U7,52.538888888,13.232777777,13599,Haselhorst,Spandau
+Hausvogteiplatz,U2,52.513055555,13.396666666,10117,Mitte,Mitte
+Hausvogteiplatz,U6,52.513055555,13.396666666,10117,Mitte,Mitte
+Heidelberger Platz,U3,52.479986111,13.311927777,10713,Wilmersdorf,Charlottenburg-Wilmersdorf
+Heidelberger Platz,Berliner Ringbahn,52.479986111,13.311927777,10713,Wilmersdorf,Charlottenburg-Wilmersdorf
+Heinrich-Heine-Straße,U8,52.510833333,13.416388888,10179,Mitte,Mitte
+Hellersdorf,U5,52.53667,13.60639,12627,Hellersdorf,Marzahn-Hellersdorf
+Hellersdorf,,52.53667,13.60639,12627,Hellersdorf,Marzahn-Hellersdorf
+Hermannplatz,U7,52.486388888,13.424444444,10967,Neukölln,Neukölln
+Hermannplatz,U8,52.486388888,13.424444444,10967,Neukölln,Neukölln
+Hermannstraße,U7,52.46722,13.43194,,Neukölln,Neukölln
+Hermannstraße,U6,52.46722,13.43194,,Neukölln,Neukölln
+Hermannstraße,U8,52.46722,13.43194,,Neukölln,Neukölln
+Hohenzollerndamm,U3,52.48722,13.3125,,Wilmersdorf,Charlottenburg-Wilmersdorf
+Hohenzollerndamm,Berliner Ringbahn,52.48722,13.3125,,Wilmersdorf,Charlottenburg-Wilmersdorf
+Hohenzollernplatz,U3,52.493888888,13.325,10717,Wilmersdorf,Charlottenburg-Wilmersdorf
+Hohenzollernplatz,U9,52.493888888,13.325,10717,Wilmersdorf,Charlottenburg-Wilmersdorf
+Holzhauser Straße,U6,52.575833333,13.296111111,13507,Tegel,Reinickendorf
+Hönow,U5,52.5383,13.6339,12627,Hellersdorf,Marzahn-Hellersdorf
+Innsbrucker Platz,U4,52.4786,13.3439,10827,Schöneberg,Tempelhof-Schöneberg
+Innsbrucker Platz,,52.4786,13.3439,10827,Schöneberg,Tempelhof-Schöneberg
+Jakob-Kaiser-Platz,U7,52.534444444,13.293611111,13627,Charlottenburg-Nord,Charlottenburg-Wilmersdorf
+Jannowitzbrücke,U8,52.515656,13.418185,10179,Mitte,Mitte
+Jannowitzbrücke,,52.515656,13.418185,10179,Mitte,Mitte
+Jannowitzbrücke,Berliner Stadtbahn,52.515656,13.418185,10179,Mitte,Mitte
+Johannisthaler Chaussee,U7,52.429166666,13.453333333,12351,Gropiusstadt,Neukölln
+Jungfernheide,U7,52.530963888,13.300141666,10589,Charlottenburg-Nord,Charlottenburg-Wilmersdorf
+Kaiserdamm,U2,52.51,13.2822,14057,Westend,Charlottenburg-Wilmersdorf
+Kaiserin-Augusta-Straße,U6,52.460152777,13.384577777,12099,Tempelhof,Tempelhof-Schöneberg
+Karl-Bonhoeffer-Nervenklinik,U8,52.578,13.329,13403,Reinickendorf,Reinickendorf
+Karl-Bonhoeffer-Nervenklinik,,52.578,13.329,13403,Reinickendorf,Reinickendorf
+Karl-Marx-Straße,U7,52.476111111,13.439166666,12043,Neukölln,Neukölln
+Karl-Marx-Straße,,52.476111111,13.439166666,12043,Neukölln,Neukölln
+Kaulsdorf-Nord,U5,52.521,13.589,12619,Hellersdorf,Marzahn-Hellersdorf
+Kaulsdorf-Nord,,52.521,13.589,12619,Hellersdorf,Marzahn-Hellersdorf
+Kleistpark,U7,52.490555555,13.360277777,10783,Schöneberg,Tempelhof-Schöneberg
+Klosterstraße,U2,52.516111111,13.412222222,10179,Mitte,Mitte
+Klosterstraße,,52.516111111,13.412222222,10179,Mitte,Mitte
+Kochstraße,U6,52.505897222,13.390611111,10969,Kreuzberg,Friedrichshain-Kreuzberg
+Kochstraße,U2,52.505897222,13.390611111,10969,Kreuzberg,Friedrichshain-Kreuzberg
+Kottbusser Tor,U8,52.499166666,13.418055555,10999,Kreuzberg,Friedrichshain-Kreuzberg
+Kottbusser Tor,U1,52.499166666,13.418055555,10999,Kreuzberg,Friedrichshain-Kreuzberg
+Krumme Lanke,U3,52.443333333,13.241388888,14163,Zehlendorf,Steglitz-Zehlendorf
+Kurfürstendamm,U1,52.504166666,13.332777777,10719,Charlottenburg,Charlottenburg-Wilmersdorf
+Kurfürstendamm,U9,52.504166666,13.332777777,10719,Charlottenburg,Charlottenburg-Wilmersdorf
+Kurfürstendamm,U3,52.504166666,13.332777777,10719,Charlottenburg,Charlottenburg-Wilmersdorf
+Kurfürstendamm,U2,52.504166666,13.332777777,10719,Charlottenburg,Charlottenburg-Wilmersdorf
+Kurfürstenstraße,U1,52.5,13.361944444,10785,Tiergarten,Mitte
+Kurfürstenstraße,U2,52.5,13.361944444,10785,Tiergarten,Mitte
+Kurfürstenstraße,U3,52.5,13.361944444,10785,Tiergarten,Mitte
+Kurfürstenstraße,U4,52.5,13.361944444,10785,Tiergarten,Mitte
+Kurt-Schumacher-Platz,U6,52.563555555,13.326572222,13405,Reinickendorf,Reinickendorf
+Köllnische Heide,U7,52.46583,13.46056,,Neukölln,Neukölln
+Leopoldplatz,U6,52.5465,13.3591,13353,Wedding,Mitte
+Leopoldplatz,U9,52.5465,13.3591,13353,Wedding,Mitte
+Leopoldplatz,,52.5465,13.3591,13353,Wedding,Mitte
+Lichtenberg,U5,52.5106,13.4964,10365,Lichtenberg,Lichtenberg
+Lichtenberg,Preußische Ostbahn,52.5106,13.4964,10365,Lichtenberg,Lichtenberg
+Lichtenberg,Bahnstrecke Berlin Frankfurter Allee–Berlin-Rummelsburg,52.5106,13.4964,10365,Lichtenberg,Lichtenberg
+Lichtenberg,Wriezener Bahn,52.5106,13.4964,10365,Lichtenberg,Lichtenberg
+Lindauer Allee,U8,52.5753,13.3392,13407,Reinickendorf,Reinickendorf
+Lipschitzallee,U7,52.424722222,13.462777777,12353,Gropiusstadt,Neukölln
+Mehringdamm,U6,52.493888888,13.388333333,10961,Kreuzberg,Friedrichshain-Kreuzberg
+Mehringdamm,U7,52.493888888,13.388333333,10961,Kreuzberg,Friedrichshain-Kreuzberg
+Mehringdamm,U1,52.493888888,13.388333333,10961,Kreuzberg,Friedrichshain-Kreuzberg
+Mendelssohn-Bartholdy-Park,,52.50389,13.375,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Mendelssohn-Bartholdy-Park,U2,52.50389,13.375,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Mierendorffplatz,U7,52.526388888,13.305,10589,Charlottenburg,Charlottenburg-Wilmersdorf
+Mohrenstraße,,52.51167,13.38472,10117,Mitte,Mitte
+Mohrenstraße,U2,52.51167,13.38472,10117,Mitte,Mitte
+Mohrenstraße,U6,52.51167,13.38472,10117,Mitte,Mitte
+Märkisches Museum,U2,52.511944444,13.408888888,10179,Mitte,Mitte
+Möckernbrücke,U7,52.499166666,13.382777777,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Möckernbrücke,U1,52.499166666,13.382777777,10963,Kreuzberg,Friedrichshain-Kreuzberg
+Naturkundemuseum,U6,52.531111111,13.3825,10115,Mitte,Mitte
+Nauener Platz,U9,52.551666666,13.3675,13347,Wedding,Mitte
+Nauener Platz,U8,52.551666666,13.3675,13347,Wedding,Mitte
+Neu-Westend,U2,52.515555555,13.261111111,14052,Westend,Charlottenburg-Wilmersdorf
+Neukölln,U7,52.469166666,13.441666666,12055,Neukölln,Neukölln
+Nollendorfplatz,U4,52.499166666,13.353888888,10777,Schöneberg,Tempelhof-Schöneberg
+Nollendorfplatz,U1,52.499166666,13.353888888,10777,Schöneberg,Tempelhof-Schöneberg
+Nollendorfplatz,U2,52.499166666,13.353888888,10777,Schöneberg,Tempelhof-Schöneberg
+Nollendorfplatz,U3,52.499166666,13.353888888,10777,Schöneberg,Tempelhof-Schöneberg
+Olympia-Stadion,U2,52.517222222,13.25,14052,Westend,Charlottenburg-Wilmersdorf
+Onkel Toms Hütte,U3,52.450277777,13.253333333,14169,Zehlendorf,Steglitz-Zehlendorf
+Osloer Straße,U8,52.55694,13.37361,13359,Gesundbrunnen,Mitte
+Osloer Straße,U9,52.55694,13.37361,13359,Gesundbrunnen,Mitte
+Ostkreuz,U1,52.50278,13.46917,,Friedrichshain,Friedrichshain-Kreuzberg
+Ostkreuz,S7,52.50278,13.46917,,Friedrichshain,Friedrichshain-Kreuzberg
+Otisstraße,U6,52.571111111,13.302777777,13405,Reinickendorf,Reinickendorf
+Pankow,U2,52.5667,13.4111,13187,Pankow,Pankow
+Pankow,,52.5667,13.4111,13187,Pankow,Pankow
+Paracelsus-Bad,U8,52.574166666,13.349166666,13407,Reinickendorf,Reinickendorf
+Paradestraße,U6,52.478055555,13.386111111,12101,Tempelhof,Tempelhof-Schöneberg
+Paradestraße,,52.478055555,13.386111111,12101,Tempelhof,Tempelhof-Schöneberg
+Paulsternstraße,U7,52.538055555,13.247777777,13629,Haselhorst,Spandau
+Potsdamer Platz,U55,52.5094,13.3758,10785,Tiergarten,Mitte
+Potsdamer Platz,U2,52.5094,13.3758,10785,Tiergarten,Mitte
+Rathaus Reinickendorf,U8,52.5882,13.3257,13437,Wittenau,Reinickendorf
+Rathaus Steglitz,U9,52.4562,13.3216,12165,Steglitz,Steglitz-Zehlendorf
+Rathaus Steglitz,,52.4562,13.3216,12165,Steglitz,Steglitz-Zehlendorf
+Rehberge,U6,52.5567,13.3412,13349,Wedding,Mitte
+Reinickendorfer Straße,U6,52.539911111,13.370377777,13353,Wedding,Mitte
+Reinickendorfer Straße,,52.539911111,13.370377777,13353,Wedding,Mitte
+Rohrdamm,U7,52.537222222,13.2625,13629,Siemensstadt,Spandau
+Rosa-Luxemburg-Platz,U2,52.528333333,13.410277777,10119,Mitte,Mitte
+Rosa-Luxemburg-Platz,,52.528333333,13.410277777,10119,Mitte,Mitte
+Rosenthaler Platz,U8,52.53,13.401111111,10119,Mitte,Mitte
+Rudow,U7,52.415833333,13.496111111,12355,Rudow,Neukölln
+Schillingstraße,U5,52.520277777,13.421666666,10178,Mitte,Mitte
+Schillingstraße,,52.520277777,13.421666666,10178,Mitte,Mitte
+Schlesisches Tor,U1,52.500833333,13.441666666,10997,Kreuzberg,Friedrichshain-Kreuzberg
+Schlesisches Tor,,52.500833333,13.441666666,10997,Kreuzberg,Friedrichshain-Kreuzberg
+Schloßstraße,U9,52.46083,13.32444,12163,Steglitz,Steglitz-Zehlendorf
+Schönhauser Allee,U2,52.549329,13.413706,10437,Prenzlauer Berg,Pankow
+Schönhauser Allee,,52.549329,13.413706,10437,Prenzlauer Berg,Pankow
+Spandau,U7,52.5347,13.1958,13597,Spandau,Spandau
+Strausberger Platz,U5,52.518055555,13.430833333,10243,Friedrichshain,Friedrichshain-Kreuzberg
+Südkreuz,U6,52.475,13.365,,Schöneberg,Tempelhof-Schöneberg
+Tempelhof,U6,52.4708,13.3854,12099,Tempelhof,Tempelhof-Schöneberg
+Ullsteinstraße,U6,52.453775,13.384302777,12099,Tempelhof,Tempelhof-Schöneberg
+Warschauer Straße,U1,52.505788888,13.449733333,10243,Friedrichshain,Friedrichshain-Kreuzberg
+Warschauer Straße,S7,52.505788888,13.449733333,10243,Friedrichshain,Friedrichshain-Kreuzberg
+Wedding,U6,52.5425,13.3661,13347,Wedding,Mitte
+Weinmeisterstraße,,52.525833333,13.403888888,10178,Mitte,Mitte
+Westhafen,U9,52.536,13.344,10559,Moabit,Mitte
+Westhafen,U6,52.536,13.344,10559,Moabit,Mitte
+Wuhletal,U5,52.5126,13.5752,12619,Hellersdorf,Marzahn-Hellersdorf
+Wutzkyallee,U7,52.423333333,13.475,12353,Gropiusstadt,Neukölln
+Yorckstraße,U7,52.493055555,13.369722222,10965,Schöneberg,Tempelhof-Schöneberg
+Yorckstraße,U1,52.493055555,13.369722222,10965,Schöneberg,Tempelhof-Schöneberg
+Zoologischer Garten,U9,52.5075,13.33417,,Charlottenburg,Charlottenburg-Wilmersdorf
+Zoologischer Garten,U7,52.5075,13.33417,,Charlottenburg,Charlottenburg-Wilmersdorf
+Zoologischer Garten,U1,52.5075,13.33417,,Charlottenburg,Charlottenburg-Wilmersdorf
+Zoologischer Garten,U2,52.5075,13.33417,,Charlottenburg,Charlottenburg-Wilmersdorf
+Zoologischer Garten,U3,52.5075,13.33417,,Charlottenburg,Charlottenburg-Wilmersdorf
