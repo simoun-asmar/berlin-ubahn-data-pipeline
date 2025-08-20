@@ -1,0 +1,382 @@
+point1,line,point2
+U-Bahnhof Nollendorfplatz,U4,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Bayerischer Platz,U4,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Hallesches Tor,U6,U-Bahnhof Kochstraße
+U-Bahnhof Kochstraße,U6,U-Bahnhof Stadtmitte
+U-Bahnhof Rehberge,U6,U-Bahnhof Seestraße
+U-Bahnhof Afrikanische Straße,U6,U-Bahnhof Rehberge
+U-Bahnhof Alt-Mariendorf,U6,U-Bahnhof Westphalweg
+U-Bahnhof Hansaplatz,U9,U-Bahnhof Turmstraße
+Bahnhof Berlin Zoologischer Garten,U9,U-Bahnhof Hansaplatz
+U-Bahnhof Heinrich-Heine-Straße,U8,U-Bahnhof Moritzplatz
+U-Bahnhof Kottbusser Tor,U8,U-Bahnhof Moritzplatz
+U-Bahnhof Bülowstraße,U2,U-Bahnhof Nollendorfplatz
+U-Bahnhof Bülowstraße,U2,U-Bahnhof Gleisdreieck
+U-Bahnhof Krumme Lanke,U3,U-Bahnhof Onkel Toms Hütte
+U-Bahnhof Onkel Toms Hütte,U3,U-Bahnhof Oskar-Helene-Heim
+U-Bahnhof Friedrichsfelde,U5,U-Bahnhof Tierpark
+Bahnhof Berlin-Lichtenberg,U5,U-Bahnhof Friedrichsfelde
+Q3831986,U5,U-Bahnhof Friedrichsfelde
+Bahnhof Berlin Beusselstraße,U9,Bahnhof Berlin Westhafen
+Bahnhof Berlin Westhafen,U9,U-Bahnhof Birkenstraße
+Bahnhof Berlin Westhafen,U9,U-Bahnhof Amrumer Straße
+Bahnhof Berlin Westhafen,U9,Bahnhof Berlin-Wedding
+Bahnhof Berlin Frankfurter Allee,U5,U-Bahnhof Magdalenenstraße
+Bahnhof Berlin-Lichtenberg,U5,U-Bahnhof Magdalenenstraße
+Q3831986,U5,U-Bahnhof Magdalenenstraße
+Bahnhof Berlin Karl-Bonhoeffer-Nervenklinik,U8,U-Bahnhof Rathaus Reinickendorf
+Bahnhof Berlin Karl-Bonhoeffer-Nervenklinik,U8,U-Bahnhof Lindauer Allee
+Bahnhof Berlin Potsdamer Platz,U55,Bahnhof Brandenburger Tor
+Bahnhof Brandenburger Tor,U55,U-Bahnhof Bundestag
+Bahnhof Berlin-Friedrichstraße,U55,Bahnhof Brandenburger Tor
+S-Bahnhof Neukölln,U7,U-Bahnhof Karl-Marx-Straße
+U-Bahnhof Karl-Marx-Straße,U7,U-Bahnhof Rathaus Neukölln
+U-Bahnhof Borsigwerke,U6,U-Bahnhof Holzhauser Straße
+U-Bahnhof Alt-Tegel,U6,U-Bahnhof Borsigwerke
+U-Bahnhof Hönow,U5,U-Bahnhof Louis-Lewin-Straße
+U-Bahnhof Frankfurter Tor,U5,U-Bahnhof Weberwiese
+U-Bahnhof Strausberger Platz,U5,U-Bahnhof Weberwiese
+U-Bahnhof Biesdorf-Süd,U5,U-Bahnhof Elsterwerdaer Platz
+Bahnhof Wuhletal,U5,U-Bahnhof Elsterwerdaer Platz
+U-Bahnhof Biesdorf-Süd,U5,U-Bahnhof Tierpark
+Bahnhof Wuhletal,U5,U-Bahnhof Kaulsdorf-Nord
+Bahnhof Wuhletal,U5,S-Bahnhof Kaulsdorf
+Bahnhof Wuhletal,U5,S-Bahnhof Biesdorf
+Bahnhof Berlin Frankfurter Allee,U5,U-Bahnhof Samariterstraße
+Bahnhof Berlin Frankfurter Allee,U5,Bahnhof Berlin-Ostkreuz
+Bahnhof Berlin Frankfurter Allee,U5,Bahnhof Berlin Storkower Straße
+U-Bahnhof Frankfurter Tor,U5,U-Bahnhof Samariterstraße
+U-Bahnhof Schillingstraße,U5,U-Bahnhof Strausberger Platz
+Bahnhof Berlin-Alexanderplatz,U5,U-Bahnhof Schillingstraße
+U-Bahnhof Kaulsdorf-Nord,U5,U-Bahnhof Kienberg (Gärten der Welt)
+U-Bahnhof Paradestraße,U6,U-Bahnhof Platz der Luftbrücke
+U-Bahnhof Mehringdamm,U6,U-Bahnhof Platz der Luftbrücke
+U-Bahnhof Naturkundemuseum,U6,U-Bahnhof Schwartzkopffstraße
+U-Bahnhof Reinickendorfer Straße,U6,U-Bahnhof Schwartzkopffstraße
+U-Bahnhof Leopoldplatz,U6,U-Bahnhof Seestraße
+U-Bahnhof Naturkundemuseum,U6,U-Bahnhof Oranienburger Tor
+Bahnhof Berlin Rathaus Steglitz,U9,U-Bahnhof Schloßstraße
+U-Bahnhof Schloßstraße,U9,U-Bahnhof Walther-Schreiber-Platz
+U-Bahnhof Rathaus Reinickendorf,U8,U-Bahnhof Wittenau
+U-Bahnhof Ullsteinstraße,U6,U-Bahnhof Westphalweg
+U-Bahnhof Kurt-Schumacher-Platz,U6,U-Bahnhof Scharnweberstraße
+U-Bahnhof Afrikanische Straße,U6,U-Bahnhof Kurt-Schumacher-Platz
+U-Bahnhof Lindauer Allee,U8,U-Bahnhof Paracelsus-Bad
+U-Bahnhof Nauener Platz,U9,U-Bahnhof Osloer Straße
+U-Bahnhof Leopoldplatz,U9,U-Bahnhof Nauener Platz
+U-Bahnhof Franz-Neumann-Platz (Am Schäfersee),U8,U-Bahnhof Residenzstraße
+U-Bahnhof Franz-Neumann-Platz (Am Schäfersee),U8,U-Bahnhof Osloer Straße
+U-Bahnhof Birkenstraße,U9,U-Bahnhof Turmstraße
+U-Bahnhof Cottbusser Platz,U5,U-Bahnhof Kienberg (Gärten der Welt)
+U-Bahnhof Paracelsus-Bad,U8,U-Bahnhof Residenzstraße
+Bahnhof Berlin-Tempelhof,U6,U-Bahnhof Paradestraße
+U-Bahnhof Cottbusser Platz,U5,U-Bahnhof Hellersdorf
+U-Bahnhof Hellersdorf,U5,U-Bahnhof Louis-Lewin-Straße
+U-Bahnhof Holzhauser Straße,U6,U-Bahnhof Otisstraße
+U-Bahnhof Amrumer Straße,U9,U-Bahnhof Leopoldplatz
+U-Bahnhof Amrumer Straße,U9,U-Bahnhof Westhafen
+U-Bahnhof Otisstraße,U6,U-Bahnhof Scharnweberstraße
+U-Bahnhof Lipschitzallee,U7,U-Bahnhof Wutzkyallee
+U-Bahnhof Wutzkyallee,U7,U-Bahnhof Zwickauer Damm
+U-Bahnhof Britz-Süd,U7,U-Bahnhof Parchimer Allee
+U-Bahnhof Britz-Süd,U7,U-Bahnhof Johannisthaler Chaussee
+U-Bahnhof Blaschkoallee,U7,U-Bahnhof Parchimer Allee
+U-Bahnhof Rudow,U7,U-Bahnhof Zwickauer Damm
+U-Bahnhof Görlitzer Bahnhof,U1,U-Bahnhof Schlesisches Tor
+U-Bahnhof Görlitzer Bahnhof,U1,U-Bahnhof Kottbusser Tor
+Bahnhöfe Berlin Warschauer Straße,U1,U-Bahnhof Schlesisches Tor
+U-Bahnhof Schlesisches Tor,U1,U-Bahnhof Warschauer Straße
+U-Bahnhof Hermannplatz,U7,U-Bahnhof Rathaus Neukölln
+Bahnhof Berlin-Lichtenberg,U5,S-Bahnhof Friedrichsfelde Ost
+Bahnhof Berlin-Lichtenberg,U5,S-Bahnhof Nöldnerplatz
+Bahnhof Berlin-Lichtenberg,Preußische Ostbahn,U-Bahnhof Friedrichsfelde
+Bahnhof Berlin-Lichtenberg,Preußische Ostbahn,U-Bahnhof Magdalenenstraße
+Bahnhof Berlin-Lichtenberg,Preußische Ostbahn,S-Bahnhof Friedrichsfelde Ost
+Bahnhof Berlin-Lichtenberg,Preußische Ostbahn,S-Bahnhof Nöldnerplatz
+Bahnhof Berlin-Lichtenberg,Bahnstrecke Berlin Frankfurter Allee–Berlin-Rummelsburg,U-Bahnhof Friedrichsfelde
+Bahnhof Berlin-Lichtenberg,Bahnstrecke Berlin Frankfurter Allee–Berlin-Rummelsburg,U-Bahnhof Magdalenenstraße
+Bahnhof Berlin-Lichtenberg,Bahnstrecke Berlin Frankfurter Allee–Berlin-Rummelsburg,S-Bahnhof Friedrichsfelde Ost
+Bahnhof Berlin-Lichtenberg,Bahnstrecke Berlin Frankfurter Allee–Berlin-Rummelsburg,S-Bahnhof Nöldnerplatz
+Bahnhof Berlin-Lichtenberg,Wriezener Bahn,U-Bahnhof Friedrichsfelde
+Bahnhof Berlin-Lichtenberg,Wriezener Bahn,U-Bahnhof Magdalenenstraße
+Bahnhof Berlin-Lichtenberg,Wriezener Bahn,S-Bahnhof Friedrichsfelde Ost
+Bahnhof Berlin-Lichtenberg,Wriezener Bahn,S-Bahnhof Nöldnerplatz
+Bahnhöfe Berlin Bundesplatz,U7,U-Bahnhof Berliner Straße
+U-Bahnhof Berliner Straße,U7,U-Bahnhof Blissestraße
+U-Bahnhof Berliner Straße,U7,U-Bahnhof Güntzelstraße
+U-Bahnhof Bayerischer Platz,U7,U-Bahnhof Berliner Straße
+U-Bahnhof Berliner Straße,U7,U-Bahnhof Bundesplatz
+Bahnhöfe Berlin Bundesplatz,U9,U-Bahnhof Berliner Straße
+U-Bahnhof Berliner Straße,U9,U-Bahnhof Blissestraße
+U-Bahnhof Berliner Straße,U9,U-Bahnhof Güntzelstraße
+U-Bahnhof Bayerischer Platz,U9,U-Bahnhof Berliner Straße
+U-Bahnhof Berliner Straße,U9,U-Bahnhof Bundesplatz
+U-Bahnhof Kaiserin-Augusta-Straße,U6,U-Bahnhof Ullsteinstraße
+Bahnhof Berlin Jungfernheide,U7,U-Bahnhof Jakob-Kaiser-Platz
+U-Bahnhof Halemweg,U7,U-Bahnhof Jakob-Kaiser-Platz
+U-Bahnhof Jakob-Kaiser-Platz,U7,U-Bahnhof Jungfernheide
+U-Bahnhof Johannisthaler Chaussee,U7,U-Bahnhof Lipschitzallee
+U-Bahnhof Friedrich-Wilhelm-Platz,U9,U-Bahnhof Walther-Schreiber-Platz
+Bahnhof Berlin Westhafen,U6,Bahnhof Berlin-Wedding
+Bahnhof Berlin-Wedding,U6,U-Bahnhof Reinickendorfer Straße
+Bahnhof Berlin Gesundbrunnen,U6,Bahnhof Berlin-Wedding
+Bahnhof Berlin-Wedding,U6,U-Bahnhof Leopoldplatz
+U-Bahnhof Altstadt Spandau,U7,U-Bahnhof Rathaus Spandau
+Bahnhof Pankow,U2,U-Bahnhof Vinetastraße
+Bahnhof Pankow,U2,S-Bahnhof Pankow-Heinersdorf
+Bahnhof Pankow,U2,S-Bahnhof Bornholmer Straße
+Bahnhof Berlin-Spandau,U7,Berlin Hauptbahnhof
+Bahnhof Berlin-Spandau,U7,Hamburg Hauptbahnhof
+Bahnhof Berlin-Spandau,U7,Wolfsburg Hauptbahnhof
+Bahnhof Berlin Jungfernheide,U7,Bahnhof Berlin-Spandau
+Bahnhof Berlin Zoologischer Garten,U7,Bahnhof Berlin-Spandau
+Bahnhof Berlin-Charlottenburg,U7,Bahnhof Berlin-Spandau
+Bahnhof Berlin-Spandau,U7,S-Bahnhof Stresow
+U-Bahnhof Hermannplatz,U7,U-Bahnhof Südstern
+U-Bahnhof Gneisenaustraße,U7,U-Bahnhof Südstern
+U-Bahnhof Olympia-Stadion,U2,U-Bahnhof Ruhleben
+U-Bahnhof Kaiserdamm,U2,U-Bahnhof Theodor-Heuss-Platz
+U-Bahnhof Kaiserdamm,U2,U-Bahnhof Sophie-Charlotte-Platz
+U-Bahnhof Neu-Westend,U2,U-Bahnhof Olympia-Stadion
+U-Bahnhof Neu-Westend,U2,U-Bahnhof Theodor-Heuss-Platz
+U-Bahnhof Hausvogteiplatz,U2,U-Bahnhof Spittelmarkt
+U-Bahnhof Hausvogteiplatz,U2,U-Bahnhof Stadtmitte
+U-Bahnhof Märkisches Museum,U2,U-Bahnhof Spittelmarkt
+U-Bahnhof Klosterstraße,U2,U-Bahnhof Märkisches Museum
+U-Bahnhof Bismarckstraße,U2,U-Bahnhof Sophie-Charlotte-Platz
+Bahnhof Berlin-Alexanderplatz,U2,U-Bahnhof Klosterstraße
+U-Bahnhof Hallesches Tor,U6,U-Bahnhof Mehringdamm
+U-Bahnhof Gneisenaustraße,U6,U-Bahnhof Mehringdamm
+U-Bahnhof Mehringdamm,U6,U-Bahnhof Möckernbrücke
+U-Bahnhof Mehringdamm,U7,U-Bahnhof Platz der Luftbrücke
+U-Bahnhof Hallesches Tor,U7,U-Bahnhof Mehringdamm
+U-Bahnhof Gneisenaustraße,U7,U-Bahnhof Mehringdamm
+U-Bahnhof Mehringdamm,U7,U-Bahnhof Möckernbrücke
+U-Bahnhof Hallesches Tor,U1,U-Bahnhof Kochstraße
+U-Bahnhof Hallesches Tor,U1,U-Bahnhof Mehringdamm
+U-Bahnhof Hallesches Tor,U1,U-Bahnhof Prinzenstraße
+U-Bahnhof Hallesches Tor,U1,U-Bahnhof Möckernbrücke
+U-Bahnhof Hallesches Tor,U6,U-Bahnhof Prinzenstraße
+Bahnhöfe Berlin Bundesplatz,U9,U-Bahnhof Friedrich-Wilhelm-Platz
+U-Bahnhof Bundesplatz,U9,U-Bahnhof Friedrich-Wilhelm-Platz
+U-Bahnhof Alt-Tempelhof,U6,U-Bahnhof Kaiserin-Augusta-Straße
+Bahnhof Berlin-Tempelhof,U6,U-Bahnhof Alt-Tempelhof
+U-Bahnhof Kurfürstendamm,U1,U-Bahnhof Uhlandstraße
+S-Bahnhof Neukölln,U7,S-Bahnhof Sonnenallee
+S-Bahnhof Neukölln,U7,U-Bahnhof Grenzallee
+S-Bahnhof Köllnische Heide,U7,S-Bahnhof Neukölln
+Bahnhof Berlin Hermannstraße,U7,S-Bahnhof Neukölln
+S-Bahnhof Neukölln,U7,U-Bahnhof Hermannstraße
+Bahnhof Schönhauser Allee,U2,U-Bahnhof Vinetastraße
+U-Bahnhof Paulsternstraße,U7,U-Bahnhof Rohrdamm
+U-Bahnhof Rohrdamm,U7,U-Bahnhof Siemensdamm
+U-Bahnhof Haselhorst,U7,U-Bahnhof Paulsternstraße
+U-Bahnhof Haselhorst,U7,U-Bahnhof Zitadelle
+U-Bahnhof Bayerischer Platz,U4,U-Bahnhof Rathaus Schöneberg
+Bahnhof Berlin Innsbrucker Platz,U4,U-Bahnhof Rathaus Schöneberg
+U-Bahnhof Adenauerplatz,U7,U-Bahnhof Wilmersdorfer Straße
+U-Bahnhof Adenauerplatz,U7,U-Bahnhof Konstanzer Straße
+U-Bahnhof Bismarckstraße,U7,U-Bahnhof Wilmersdorfer Straße
+U-Bahnhof Fehrbelliner Platz (U7),U7,U-Bahnhof Konstanzer Straße
+U-Bahnhof Halemweg,U7,U-Bahnhof Siemensdamm
+U-Bahnhof Nollendorfplatz,U1,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Bülowstraße,U1,U-Bahnhof Nollendorfplatz
+U-Bahnhof Kurfürstenstraße,U1,U-Bahnhof Nollendorfplatz
+U-Bahnhof Nollendorfplatz,U1,U-Bahnhof Wittenbergplatz
+U-Bahnhof Nollendorfplatz,U2,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Kurfürstenstraße,U2,U-Bahnhof Nollendorfplatz
+U-Bahnhof Nollendorfplatz,U2,U-Bahnhof Wittenbergplatz
+U-Bahnhof Nollendorfplatz,U3,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Bülowstraße,U3,U-Bahnhof Nollendorfplatz
+U-Bahnhof Kurfürstenstraße,U3,U-Bahnhof Nollendorfplatz
+U-Bahnhof Nollendorfplatz,U3,U-Bahnhof Wittenbergplatz
+U-Bahnhof Bülowstraße,U4,U-Bahnhof Nollendorfplatz
+U-Bahnhof Kurfürstenstraße,U4,U-Bahnhof Nollendorfplatz
+U-Bahnhof Nollendorfplatz,U4,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin Yorckstraße,U7,U-Bahnhof Kleistpark
+U-Bahnhof Eisenacher Straße,U7,U-Bahnhof Kleistpark
+U-Bahnhof Kleistpark,U7,U-Bahnhof Yorckstraße
+U-Bahnhof Bayerischer Platz,U7,U-Bahnhof Eisenacher Straße
+U-Bahnhof Breitenbachplatz,U3,U-Bahnhof Podbielskiallee
+U-Bahnhof Dahlem-Dorf,U3,U-Bahnhof Podbielskiallee
+U-Bahnhof Dahlem-Dorf,U3,U-Bahnhof Freie Universität (Thielplatz)
+U-Bahnhof Freie Universität (Thielplatz),U3,U-Bahnhof Oskar-Helene-Heim
+U-Bahnhof Breitenbachplatz,U3,U-Bahnhof Rüdesheimer Platz
+U-Bahnhof Osloer Straße,U8,U-Bahnhof Pankstraße
+Bahnhof Berlin Gesundbrunnen,U8,U-Bahnhof Pankstraße
+Bahnhof Schönhauser Allee,U2,U-Bahnhof Eberswalder Straße
+U-Bahnhof Eberswalder Straße,U2,U-Bahnhof Senefelderplatz
+Bahnhof Berlin Jungfernheide,U7,U-Bahnhof Mierendorffplatz
+U-Bahnhof Mierendorffplatz,U7,U-Bahnhof Richard-Wagner-Platz
+U-Bahnhof Jungfernheide,U7,U-Bahnhof Mierendorffplatz
+U-Bahnhof Blissestraße,U7,U-Bahnhof Fehrbelliner Platz (U7)
+U-Bahnhof Altstadt Spandau,U7,U-Bahnhof Zitadelle
+Bahnhof Berlin Gesundbrunnen,U2,Bahnhof Schönhauser Allee
+Bahnhof Schönhauser Allee,U2,S-Bahnhof Prenzlauer Allee
+Bahnhof Schönhauser Allee,U2,S-Bahnhof Bornholmer Straße
+Bahnhof Berlin Südkreuz,U6,Bahnhof Berlin-Tempelhof
+Bahnhof Berlin Hermannstraße,U6,Bahnhof Berlin-Tempelhof
+U-Bahnhof Französische Straße,U6,U-Bahnhof Stadtmitte
+U-Bahnhof Französische Straße,U6,U-Bahnhof Friedrichstraße
+U-Bahnhof Friedrichstraße,U6,U-Bahnhof Oranienburger Tor
+Bahnhof Berlin Jannowitzbrücke,U8,U-Bahnhof Heinrich-Heine-Straße
+U-Bahnhof Heinrich-Heine-Straße,U8,U-Bahnhof Jannowitzbrücke
+U-Bahnhof Rosenthaler Platz,U8,U-Bahnhof Weinmeisterstraße
+U-Bahnhof Bernauer Straße,U8,U-Bahnhof Rosenthaler Platz
+Bahnhof Berlin Gesundbrunnen,U8,U-Bahnhof Voltastraße
+U-Bahnhof Bernauer Straße,U8,U-Bahnhof Voltastraße
+U-Bahnhof Kurfürstendamm,U1,U-Bahnhof Spichernstraße
+Bahnhof Berlin Zoologischer Garten,U1,U-Bahnhof Kurfürstendamm
+U-Bahnhof Kurfürstendamm,U1,U-Bahnhof Wittenbergplatz
+U-Bahnhof Kurfürstendamm,U9,U-Bahnhof Uhlandstraße
+U-Bahnhof Kurfürstendamm,U9,U-Bahnhof Spichernstraße
+Bahnhof Berlin Zoologischer Garten,U9,U-Bahnhof Kurfürstendamm
+U-Bahnhof Kurfürstendamm,U9,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin-Ostkreuz,U1,Bahnhöfe Berlin Warschauer Straße
+Bahnhöfe Berlin Warschauer Straße,U1,Berlin Ostbahnhof
+Bahnhöfe Berlin Warschauer Straße,S7,U-Bahnhof Schlesisches Tor
+Bahnhof Berlin-Ostkreuz,S7,Bahnhöfe Berlin Warschauer Straße
+Bahnhöfe Berlin Warschauer Straße,S7,Berlin Ostbahnhof
+U-Bahnhof Hermannplatz,U8,U-Bahnhof Schönleinstraße
+U-Bahnhof Kottbusser Tor,U8,U-Bahnhof Schönleinstraße
+U-Bahnhof Blaschkoallee,U7,U-Bahnhof Grenzallee
+U-Bahnhof Augsburger Straße,U3,U-Bahnhof Spichernstraße
+U-Bahnhof Augsburger Straße,U3,U-Bahnhof Wittenbergplatz
+U-Bahnhof Güntzelstraße,U3,U-Bahnhof Spichernstraße
+U-Bahnhof Hohenzollernplatz,U3,U-Bahnhof Spichernstraße
+U-Bahnhof Kurfürstendamm,U3,U-Bahnhof Spichernstraße
+U-Bahnhof Güntzelstraße,U9,U-Bahnhof Spichernstraße
+U-Bahnhof Hohenzollernplatz,U9,U-Bahnhof Spichernstraße
+U-Bahnhof Augsburger Straße,U9,U-Bahnhof Spichernstraße
+U-Bahnhof Boddinstraße,U8,U-Bahnhof Leinestraße
+Bahnhof Berlin Hermannstraße,U8,U-Bahnhof Leinestraße
+U-Bahnhof Bayerischer Platz,U4,U-Bahnhof Eisenacher Straße
+U-Bahnhof Bayerischer Platz,U4,U-Bahnhof Berliner Straße
+U-Bahnhof Bayerischer Platz,U7,U-Bahnhof Viktoria-Luise-Platz
+U-Bahnhof Bayerischer Platz,U7,U-Bahnhof Rathaus Schöneberg
+Bahnhof Berlin Potsdamer Platz,U2,Berlin Hauptbahnhof
+Bahnhof Berlin Potsdamer Platz,U2,Bahnhof Berlin Südkreuz
+Bahnhof Berlin Potsdamer Platz,U2,Bahnhof Brandenburger Tor
+Bahnhof Berlin Potsdamer Platz,U2,U-Bahnhof Mohrenstraße
+Bahnhof Berlin Potsdamer Platz,U2,U-Bahnhof Mendelssohn-Bartholdy-Park
+Bahnhof Berlin Potsdamer Platz,U2,Berlin Anhalter Bahnhof
+Bahnhof Berlin Gesundbrunnen,U8,Berlin Hauptbahnhof
+Bahnhof Berlin Gesundbrunnen,U8,Bahnhof Schönhauser Allee
+Bahnhof Berlin Gesundbrunnen,U8,Bahnhof Berlin-Wedding
+U-Bahnhof Bülowstraße,U1,U-Bahnhof Gleisdreieck
+U-Bahnhof Gleisdreieck,U1,U-Bahnhof Mendelssohn-Bartholdy-Park
+U-Bahnhof Gleisdreieck,U1,U-Bahnhof Kurfürstenstraße
+U-Bahnhof Gleisdreieck,U1,U-Bahnhof Möckernbrücke
+Q33284476,U1,U-Bahnhof Gleisdreieck
+U-Bahnhof Gleisdreieck,U2,U-Bahnhof Mendelssohn-Bartholdy-Park
+U-Bahnhof Gleisdreieck,U2,U-Bahnhof Kurfürstenstraße
+U-Bahnhof Gleisdreieck,U2,U-Bahnhof Möckernbrücke
+Q33284476,U2,U-Bahnhof Gleisdreieck
+U-Bahnhof Bismarckstraße,U2,U-Bahnhof Wilmersdorfer Straße
+U-Bahnhof Bismarckstraße,U2,U-Bahnhof Richard-Wagner-Platz
+U-Bahnhof Bismarckstraße,U2,U-Bahnhof Deutsche Oper
+U-Bahnhof Bismarckstraße,U7,U-Bahnhof Sophie-Charlotte-Platz
+U-Bahnhof Bismarckstraße,U7,U-Bahnhof Richard-Wagner-Platz
+U-Bahnhof Bismarckstraße,U7,U-Bahnhof Deutsche Oper
+U-Bahnhof Kottbusser Tor,U1,U-Bahnhof Prinzenstraße
+U-Bahnhof Augsburger Straße,U1,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin Zoologischer Garten,U1,U-Bahnhof Wittenbergplatz
+U-Bahnhof Kurfürstendamm,U2,U-Bahnhof Wittenbergplatz
+U-Bahnhof Augsburger Straße,U2,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin Zoologischer Garten,U2,U-Bahnhof Wittenbergplatz
+U-Bahnhof Bundestag,U55,U-Bahnhof Hauptbahnhof
+Bahnhof Berlin Innsbrucker Platz,U4,Bahnhöfe Berlin Bundesplatz
+Bahnhof Berlin Innsbrucker Platz,U4,Bahnhof Berlin-Schöneberg
+Bahnhof Berlin Bundesplatz,U4,Bahnhof Berlin Innsbrucker Platz
+U-Bahnhof Möckernbrücke,U7,U-Bahnhof Yorckstraße
+U-Bahnhof Heidelberger Platz,U3,U-Bahnhof Rüdesheimer Platz
+Bahnhöfe Berlin Bundesplatz,U3,U-Bahnhof Heidelberger Platz
+Bahnhof Berlin Hohenzollerndamm,U3,U-Bahnhof Heidelberger Platz
+U-Bahnhof Fehrbelliner Platz (U3),U3,U-Bahnhof Heidelberger Platz
+U-Bahnhof Heidelberger Platz,Berliner Ringbahn,U-Bahnhof Rüdesheimer Platz
+Bahnhöfe Berlin Bundesplatz,Berliner Ringbahn,U-Bahnhof Heidelberger Platz
+Bahnhof Berlin Hohenzollerndamm,Berliner Ringbahn,U-Bahnhof Heidelberger Platz
+U-Bahnhof Fehrbelliner Platz (U3),Berliner Ringbahn,U-Bahnhof Heidelberger Platz
+Bahnhof Berlin-Alexanderplatz,U8,U-Bahnhof Jannowitzbrücke
+U-Bahnhof Rosa-Luxemburg-Platz,U2,U-Bahnhof Senefelderplatz
+U-Bahnhof Friedrichstraße,,U-Bahnhof Oranienburger Tor
+U-Bahnhof Mohrenstraße,,U-Bahnhof Potsdamer Platz
+U-Bahnhof Mendelssohn-Bartholdy-Park,,U-Bahnhof Potsdamer Platz
+U-Bahnhof Frankfurter Allee,,U-Bahnhof Magdalenenstraße
+U-Bahnhof Frankfurter Allee,,U-Bahnhof Samariterstraße
+U-Bahnhof Gesundbrunnen,,U-Bahnhof Pankstraße
+U-Bahnhof Gesundbrunnen,,U-Bahnhof Voltastraße
+U-Bahnhof Innsbrucker Platz,,U-Bahnhof Rathaus Schöneberg
+U-Bahnhof Karl-Bonhoeffer-Nervenklinik,,U-Bahnhof Rathaus Reinickendorf
+U-Bahnhof Karl-Bonhoeffer-Nervenklinik,,U-Bahnhof Lindauer Allee
+U-Bahnhof Rathaus Steglitz,,U-Bahnhof Schloßstraße
+U-Bahnhof Schillingstraße,,U-Bahnhof Westhafen
+U-Bahnhof Birkenstraße,,U-Bahnhof Westhafen
+U-Bahnhof Amrumer Straße,,U-Bahnhof Westhafen
+U-Bahnhof Klosterstraße,,U-Bahnhof Westhafen
+U-Bahnhof Rosa-Luxemburg-Platz,,U-Bahnhof Westhafen
+U-Bahnhof Weinmeisterstraße,,U-Bahnhof Westhafen
+U-Bahnhof Jannowitzbrücke,,U-Bahnhof Westhafen
+U-Bahnhof Paradestraße,,U-Bahnhof Tempelhof
+U-Bahnhof Alt-Tempelhof,,U-Bahnhof Tempelhof
+U-Bahnhof Reinickendorfer Straße,,U-Bahnhof Wedding
+U-Bahnhof Leopoldplatz,,U-Bahnhof Wedding
+U-Bahnhof Brandenburger Tor,,U-Bahnhof Bundestag
+U-Bahnhof Pankow,,U-Bahnhof Vinetastraße
+U-Bahnhof Schönhauser Allee,,U-Bahnhof Vinetastraße
+U-Bahnhof Eberswalder Straße,,U-Bahnhof Schönhauser Allee
+U-Bahnhof Elsterwerdaer Platz,,U-Bahnhof Wuhletal
+U-Bahnhof Kaulsdorf-Nord,,U-Bahnhof Wuhletal
+U-Bahnhof Schlesisches Tor,,U-Bahnhof Warschauer Straße
+U-Bahnhof Karl-Marx-Straße,,U-Bahnhof Neukölln
+U-Bahnhof Grenzallee,,U-Bahnhof Neukölln
+U-Bahnhof Hallesches Tor,U6,U-Bahnhof Möckernbrücke
+Bahnhof Berlin Zoologischer Garten,U2,U-Bahnhof Ernst-Reuter-Platz
+U-Bahnhof Deutsche Oper,U2,U-Bahnhof Ernst-Reuter-Platz
+U-Bahnhof Mohrenstraße,U2,U-Bahnhof Stadtmitte
+U-Bahnhof Mohrenstraße,U2,U-Bahnhof Potsdamer Platz
+U-Bahnhof Mendelssohn-Bartholdy-Park,U2,U-Bahnhof Potsdamer Platz
+Bahnhof Berlin-Alexanderplatz,U2,U-Bahnhof Rosa-Luxemburg-Platz
+U-Bahnhof Hermannplatz,U7,U-Bahnhof Schönleinstraße
+U-Bahnhof Boddinstraße,U7,U-Bahnhof Hermannplatz
+U-Bahnhof Hermannplatz,U8,U-Bahnhof Rathaus Neukölln
+U-Bahnhof Hermannplatz,U8,U-Bahnhof Südstern
+U-Bahnhof Boddinstraße,U8,U-Bahnhof Hermannplatz
+U-Bahnhof Kochstraße,U2,U-Bahnhof Stadtmitte
+U-Bahnhof Französische Straße,U2,U-Bahnhof Stadtmitte
+U-Bahnhof Hausvogteiplatz,U6,U-Bahnhof Stadtmitte
+U-Bahnhof Mohrenstraße,U6,U-Bahnhof Stadtmitte
+Bahnhof Berlin-Alexanderplatz,U8,U-Bahnhof Weinmeisterstraße
+U-Bahnhof Nauener Platz,U8,U-Bahnhof Osloer Straße
+U-Bahnhof Franz-Neumann-Platz (Am Schäfersee),U9,U-Bahnhof Osloer Straße
+U-Bahnhof Osloer Straße,U9,U-Bahnhof Pankstraße
+U-Bahnhof Fehrbelliner Platz (U3),U3,U-Bahnhof Hohenzollernplatz
+U-Bahnhof Cottbusser Platz,,U-Bahnhof Hellersdorf
+U-Bahnhof Hellersdorf,,U-Bahnhof Louis-Lewin-Straße
+U-Bahnhof Kurfürstendamm,U3,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin Zoologischer Garten,U3,U-Bahnhof Wittenbergplatz
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,U-Bahnhof Schillingstraße
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,U-Bahnhof Klosterstraße
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,U-Bahnhof Rosa-Luxemburg-Platz
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,U-Bahnhof Weinmeisterstraße
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,Berlin Ostbahnhof
+Bahnhof Berlin Hackescher Markt,Berliner Stadtbahn,Bahnhof Berlin-Alexanderplatz
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,Bahnhof Berlin-Friedrichstraße
+Bahnhof Berlin Jannowitzbrücke,Berliner Stadtbahn,Bahnhof Berlin-Alexanderplatz
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,U-Bahnhof Jannowitzbrücke
+Bahnhof Berlin-Alexanderplatz,Berliner Stadtbahn,S-Bahnhof Jannowitzbrücke
+Bahnhof Berlin Yorckstraße,U1,U-Bahnhof Möckernbrücke
+U-Bahnhof Mehringdamm,U1,U-Bahnhof Möckernbrücke
+U-Bahnhof Möckernbrücke,U1,U-Bahnhof Yorckstraße
+Bahnhof Berlin Yorckstraße,U7,U-Bahnhof Möckernbrücke
+U-Bahnhof Hallesches Tor,U7,U-Bahnhof Möckernbrücke
+U-Bahnhof Gleisdreieck,U7,U-Bahnhof Möckernbrücke
+U-Bahnhof Kottbusser Tor,U1,U-Bahnhof Moritzplatz
+U-Bahnhof Kottbusser Tor,U1,U-Bahnhof Schönleinstraße
+U-Bahnhof Görlitzer Bahnhof,U8,U-Bahnhof Kottbusser Tor
+U-Bahnhof Kottbusser Tor,U8,U-Bahnhof Prinzenstraße
+U-Bahnhof Leopoldplatz,U6,U-Bahnhof Nauener Platz
+U-Bahnhof Amrumer Straße,U6,U-Bahnhof Leopoldplatz
+U-Bahnhof Leopoldplatz,U6,U-Bahnhof Wedding
+U-Bahnhof Leopoldplatz,U9,U-Bahnhof Seestraße
+U-Bahnhof Leopoldplatz,U9,U-Bahnhof Wedding
