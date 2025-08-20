@@ -1,0 +1,7 @@
+{
+  "type": "service_account",
+  "project_id": "YOUR_PROJECT_ID",
+  "client_email": "your-sa@your-project.iam.gserviceaccount.com",
+  "private_key_id": "REDACTED",
+  "private_key": "REDACTED"
+}
