@@ -81,6 +81,11 @@ pip install --upgrade db-dtypes              # BigQuery-compatible pandas dtypes
 from google.cloud import bigquery
 import pandas as pd
 
+
+# Path to your JSON key file
+key_path = ""/absolute/path/to/bq_connector_key.json" 
+client = bigquery.Client.from_service_account_json(key_path)
+
 # 1) Load final CSV and keep postcode as string (no lost leading zeros)
 df = pd.read_csv("ubahn.csv", dtype={"postcode": "string"})
 
