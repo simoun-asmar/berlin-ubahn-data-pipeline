@@ -54,6 +54,20 @@ export GOOGLE_APPLICATION_CREDENTIALS="/absolute/path/to/bq_connector_key.json"
 
 > BigQuery is a columnar analytics warehouse; I keep relationships in the model/queries rather than enforcing FKs.
 
+### 🔑 Add `district_id` (join key) before loading to BigQuery
+
+Before publishing, I create a **stable, normalized join key** called `district_id` so this U-Bahn table can be reliably joined to other warehouse tables (e.g., demographics per Bezirk). Using a short **two-character STRING** (`"01"`–`"12"`) avoids spelling/umlaut issues and keeps leading zeros.
+
+**Rationale**
+- **Consistent joins:** avoids free-text mismatches on `district` names.
+- **Stable key:** independent of localization/accents.
+- **Warehouse-friendly:** short STRING, easy to index and reference.
+
+**Conventions**
+- Type: **STRING** (not INT) → preserves leading zeros (`"01"`…`"12"`).
+- Values map 1:1 to Berlin Bezirke.
+
+**Implementation (right before the BigQuery load):**
 ### ▶️ Code
 ```bash
 # BigQuery tooling for local notebooks / scripts
